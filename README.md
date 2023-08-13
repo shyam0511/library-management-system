@@ -1,6 +1,5 @@
 # library-management-system
-![image](https://github.com/shyam0511/library-management-system/assets/108168576/f0cc3bdf-bfbd-4e46-93ed-803026b0c2f0)
-![image](https://github.com/shyam0511/library-management-system/assets/108168576/d512eae3-2771-4c37-acff-86071666d983)
-![image](https://github.com/shyam0511/library-management-system/assets/108168576/5f1d79e1-0be6-4f70-90d9-f5e94d300d4f)
-![image](https://github.com/shyam0511/library-management-system/assets/108168576/cc73376c-50aa-45c6-b5fb-43c8d2fe5d04)
-
+![image](https://github.com/shyam0511/library-management-system/assets/108168576/ce395419-4feb-4e8e-8639-f63b7a0e0e36)
+![image](https://github.com/shyam0511/library-management-system/assets/108168576/4d02a28a-6037-4603-9716-698d340be023)
+![image](https://github.com/shyam0511/library-management-system/assets/108168576/bee9f1cf-6ecc-4c1f-9bf4-2eda6c4c00d7)
+![image](https://github.com/shyam0511/library-management-system/assets/108168576/09455f03-a989-4b37-b2d8-5099e188cff2)
